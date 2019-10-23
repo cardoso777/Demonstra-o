@@ -3,7 +3,7 @@
 <html lang="pt-br">
 <meta charset="utf-8">
 <head>
-	<title>WHITE PAGE</title>
+	<title>teste</title>
 </head>
 <body>
 
